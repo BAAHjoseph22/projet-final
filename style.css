@@ -1,0 +1,84 @@
+.sport{
+    font-size: 26px;
+    color:#00CC66;
+    font-weight: bold;
+}
+.owe{
+    font-size: 26px;
+    color:black;
+    font-weight: bold
+     }
+
+.oweh{
+    font-size: 26px;
+    color: #ef9022;
+    font-weight: bold 
+}
+
+.logo{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+}
+.tv{
+    font-size: 30px;
+    color: #ef9022;
+    font-weight: bold;        
+}
+.background{
+    background-color: rgb(0, 0, 0); 
+}
+
+li{
+    display: inline; 
+    margin-inline: 5px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 85%;
+    margin-inline: auto;
+    background-color: #fa940f;
+    padding: 5px;
+}
+.LIVE tv{
+       background: red;
+}
+
+.rubrique{
+    font-weight: bold;
+    color: white;
+}
+.rubrique:hover{
+    color: black;
+}
+#une{
+    margin-top: 40px;
+    width: 90%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.match{
+    width: 40%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.amicale{
+    width: 600px;
+    font: size 20%; 
+    font-weight:lighter ;
+}
+.contact{
+margin-top:300px;
+color: white;
+background-color: black;
+padding: 15px;
+text-align: center;
+}
+    
+
+    
+    
